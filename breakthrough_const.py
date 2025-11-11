@@ -1,0 +1,1 @@
+WHITE, BLACK, EMPTY = 1, -1, 0
